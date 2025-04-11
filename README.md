@@ -1,4 +1,4 @@
-# The impact oof planning scale on protected area size and connectivity
+# The impact of planning scale on protected area size and connectivity
 
 This repository contains the supporting information for the publication, whereby:
 * **captain_code** contains the version of CAPTAIN used in the analysis
