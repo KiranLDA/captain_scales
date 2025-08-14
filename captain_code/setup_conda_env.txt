@@ -1,0 +1,4 @@
+conda config --append channels conda-forge
+conda install  python=3.9.7
+conda env create --name captain_env -f C:\Users\kdh10kg\Documents\GitHub\captain-project\environment.yml
+
